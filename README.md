@@ -1,5 +1,7 @@
 # online-music-helper
-Chrome extension to provide additional keyboard shortcut for Flat.io and Soundtrap
+Chrome extension to provide additional keyboard shortcuts for Flat.io and Soundtrap.
+
+Blog post : https://tmpcafe.blogspot.com/2023/05/online-music-helper-chrome-extension.html
 
 # Soundtrap Tweak
 - Hit `Space` to pause recording.
@@ -9,5 +11,3 @@ Chrome extension to provide additional keyboard shortcut for Flat.io and Soundtr
 # Flat.io Tweak
 - Toggle mute volume: Hit ``backtick (`)`` twice (to open the menu and toggling the mute button).
 - Toggle midi input: Hit ``backslash (\)`` twice (to open the menu and toggling the mini input).
-
-Read more here : https://tmpcafe.blogspot.com/2023/05/online-music-helper-chrome-extension.html
