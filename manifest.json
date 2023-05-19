@@ -1,0 +1,17 @@
+{
+  "name": "Music Service Helper",
+  "version": "0.0.1",
+  "manifest_version": 3,
+  "description": "Keyboard shortcut helper for Soundtrap and Flat.io.",
+  "content_scripts": [
+    {
+      "matches": [
+        "https://www.soundtrap.com/*",
+        "https://flat.io/score/*"
+      ],
+      "js": [
+        "inject.js"
+      ]
+    }
+  ]
+}
